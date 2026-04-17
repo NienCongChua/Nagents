@@ -449,4 +449,7 @@ import './contrib/editTelemetry/browser/editTelemetry.contribution.js';
 // Opener
 import './contrib/opener/browser/opener.contribution.js';
 
+// Cascade AI
+import './contrib/cascadeAI/browser/cascadeAI.contribution.js';
+
 //#endregion
